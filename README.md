@@ -4,6 +4,8 @@ Freecell68k is an implementation of FreeCell for Classic Mac OS. It has been tes
 ## Usage
 When the program is opened, a game is automatically started. A new game can be started from File > New (Cmd-N), or can be opened with File > Open (Cmd-O) if the game number is known. Game numbers are the same as in Microsoft FreeCell. The current game can be restarted with File > Restart (Cmd-R). The program can be quit from File > Quit (Cmd-Q). If mistake is made during play, Edit > Undo (Cmd-Z) will undo the last move.
 
+![FreeCell Image](https://github.com/StevenMcLeod/Freecell68k/blob/master/FreeCell.png)
+
 ## Installing & Building
 Installing the application only requires downloading the FreeCell.bin file and unencoding it (MacBinary II).
 
